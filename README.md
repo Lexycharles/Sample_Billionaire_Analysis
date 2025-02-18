@@ -83,6 +83,18 @@ Key Performance Indicators (KPIs) were identified to highlight the most signific
 
 #### Top Industries by Total Net Worth
 
+| Industry              | Total Net Worth (Million \$) | Avg Net Worth (Million \$) |
+| --------------------- | ---------------------------- | -------------------------- |
+| Technology            | 1,299,800                    | 20,965                     |
+| Fashion & Retail      | 1,160,200                    | 21,485                     |
+| Finance & Investments | 883,000                      | 11,455                     |
+| Food & Beverage       | 567,800                      | 13,205                     |
+| Diversified           | 493,700                      | 15,884                     |
+| Manufacturing         | 423,400                      | 9,623                      |
+| Automotive            | 397,200                      | 24,825                     |
+| Metals & Mining       | 315,300                      | 15,765                     |
+| Energy                | 294,600                      | 10,521                     |
+| Healthcare            | 263,500                      | 9,759                      |
 
 #### Industries with the Highest Average Net Worth
 
